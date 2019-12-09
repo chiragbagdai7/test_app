@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="f5bfea73db9ddb00474ff1351d961933" sys_domain="global" table="x_snc_student_ma_hackathon_data" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-13 06:08:45</sys_created_on>
+            <sys_id>7acf2e73db9ddb00474ff1351d9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_student_ma_hackathon_data" sys_domain="global" view="Default view">f5bfea73db9ddb00474ff1351d961933</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-13 06:08:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-13 06:08:45</sys_created_on>
+            <sys_id>facf2e73db9ddb00474ff1351d9619e8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_student_ma_hackathon_data" sys_domain="global" view="Default view">f5bfea73db9ddb00474ff1351d961933</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-13 06:08:45</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-13 06:24:12</sys_created_on>
+            <sys_id>41537237db9ddb00474ff1351d96198f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_student_ma_hackathon_data" sys_domain="global" view="Default view">f5bfea73db9ddb00474ff1351d961933</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-13 06:24:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>last_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-13 06:24:12</sys_created_on>
+            <sys_id>15537237db9ddb00474ff1351d961997</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_student_ma_hackathon_data" sys_domain="global" view="Default view">f5bfea73db9ddb00474ff1351d961933</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-13 06:24:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_titile</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-13 06:24:12</sys_created_on>
+            <sys_id>15537237db9ddb00474ff1351d96199f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_student_ma_hackathon_data" sys_domain="global" view="Default view">f5bfea73db9ddb00474ff1351d961933</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-13 06:24:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>idea_description</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-13 06:24:13</sys_created_on>
+            <sys_id>95537237db9ddb00474ff1351d9619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_student_ma_hackathon_data" sys_domain="global" view="Default view">f5bfea73db9ddb00474ff1351d961933</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-13 06:24:13</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_student_ma_hackathon_data</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-13 06:08:24</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f5bfea73db9ddb00474ff1351d961933</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_student_ma_hackathon_data</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Student Management" source="x_snc_student_ma">da0f2a33db9ddb00474ff1351d9619f9</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Student Management">da0f2a33db9ddb00474ff1351d9619f9</sys_scope>
+            <sys_update_name>sys_ui_section_f5bfea73db9ddb00474ff1351d961933</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-13 06:08:24</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

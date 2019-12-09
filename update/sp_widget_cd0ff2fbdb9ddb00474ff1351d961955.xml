@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {
+	/* widget controller */
+	var c = this;
+	c.submitFeedback = function () {
+		alert('name'+c.name);
+		alert('feedback'+c.feedback);
+	};
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css/>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id/>
+        <internal>false</internal>
+        <link/>
+        <name>feedback_form</name>
+        <option_schema/>
+        <public>true</public>
+        <roles/>
+        <script><![CDATA[(function() {
+  /* populate the 'data' object */
+  /* e.g., data.table = $sp.getValue('table'); */
+
+})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-13 07:23:41</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>cd0ff2fbdb9ddb00474ff1351d961955</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>feedback_form</sys_name>
+        <sys_package display_value="Student Management" source="x_snc_student_ma">da0f2a33db9ddb00474ff1351d9619f9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Student Management">da0f2a33db9ddb00474ff1351d9619f9</sys_scope>
+        <sys_update_name>sp_widget_cd0ff2fbdb9ddb00474ff1351d961955</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-13 07:26:26</sys_updated_on>
+        <template><![CDATA[<form class="form-horizontal" >
+<fieldset>
+
+<!-- Form Name -->
+<legend>Feedback for SNAPP</legend>
+
+<!-- Text input-->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="name">Name</label>  
+  <div class="col-md-4">
+  <input id="name" name="name" type="text" placeholder="" ng-model= 'name' class="form-control input-md">
+    
+  </div>
+</div>
+
+<!-- Textarea -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="feedback">Feedback</label>
+  <div class="col-md-4">                     
+    <textarea class="form-control" id="feedback" ng-model= 'feedback' name="feedback"></textarea>
+  </div>
+</div>
+
+<!-- Button -->
+<div class="form-group">
+  <label class="col-md-4 control-label" for="submit"></label>
+  <div class="col-md-4">
+    <button id="submit" name="submit" class="btn btn-primary" ng-click="c.submitFeedback()">Submit</button>
+  </div>
+</div>
+
+</fieldset>
+</form>
+]]></template>
+    </sp_widget>
+</record_update>

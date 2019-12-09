@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>snapp_feedback</id>
+        <internal>false</internal>
+        <public>true</public>
+        <roles/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-04-13 07:24:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>57f0c73fdb9ddb00474ff1351d9619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>snapp_feedback</sys_name>
+        <sys_package display_value="Student Management" source="x_snc_student_ma">da0f2a33db9ddb00474ff1351d9619f9</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Student Management">da0f2a33db9ddb00474ff1351d9619f9</sys_scope>
+        <sys_update_name>sp_page_57f0c73fdb9ddb00474ff1351d9619a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-04-13 07:24:22</sys_updated_on>
+        <title>Feedback</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=57f0c73fdb9ddb00474ff1351d9619a1"/>
+</record_update>
